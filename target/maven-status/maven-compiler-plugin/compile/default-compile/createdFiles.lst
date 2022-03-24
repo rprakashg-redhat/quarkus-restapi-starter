@@ -1,4 +1,0 @@
-org/rprakashg/quarkus/models/Greeting.class
-org/rprakashg/quarkus/api/GreetingResource.class
-org/rprakashg/quarkus/api/LivelinessCheck.class
-org/rprakashg/quarkus/services/GreetingService.class

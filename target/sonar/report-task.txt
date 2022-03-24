@@ -1,7 +1,0 @@
-organization=appsbyram
-projectKey=org.rprakashg:quarkus-restapi-starter
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.26900
-dashboardUrl=https://sonarcloud.io/dashboard?id=org.rprakashg%3Aquarkus-restapi-starter
-ceTaskId=AX8J6OvofLDbQMr7xkaM
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX8J6OvofLDbQMr7xkaM
